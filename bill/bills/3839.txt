@@ -1,0 +1,15 @@
+	 Welcome to D_mart
+
+ Bill Number : 3839
+ Customer Name : asha
+ Phone Number : 1456203
+=====================================
+ Product		QTY		Price
+=====================================
+ Bath Soap		10		400
+ Frooty		10		200
+-------------------------------------
+ Cosemetic Tax			Rs. 20.0
+ Cold_drink Tax			Rs. 10.0
+ Total Bill : 			 Rs. 630.0
+-------------------------------------

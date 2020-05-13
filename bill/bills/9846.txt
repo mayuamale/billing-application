@@ -1,0 +1,13 @@
+	 Welcome to D_mart
+
+ Bill Number : 9846
+ Customer Name : minu
+ Phone Number : 56512512
+=====================================
+ Product		QTY		Price
+=====================================
+ Bath Soap		15		600
+-------------------------------------
+ Cosemetic Tax			Rs. 30.0
+ Total Bill : 			 Rs. 630.0
+-------------------------------------

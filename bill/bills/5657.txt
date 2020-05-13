@@ -1,0 +1,13 @@
+	 Welcome to D_mart
+
+ Bill Number : 5657
+ Customer Name : nita
+ Phone Number : 55454125412
+=====================================
+ Product		QTY		Price
+=====================================
+ Bath Soap		10		400
+-------------------------------------
+ Cosemetic Tax			Rs. 20.0
+ Total Bill : 			 Rs. 420.0
+-------------------------------------

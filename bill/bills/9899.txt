@@ -1,0 +1,13 @@
+	 Welcome to D_mart
+
+ Bill Number : 9899
+ Customer Name : asha
+ Phone Number : 111111
+=====================================
+ Product		QTY		Price
+=====================================
+ Bath Soap		12		480
+-------------------------------------
+ Cosemetic Tax			Rs. 24.0
+ Total Bill : 			 Rs. 504.0
+-------------------------------------

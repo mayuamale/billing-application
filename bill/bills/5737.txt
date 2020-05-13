@@ -1,0 +1,17 @@
+	 Welcome to D_mart
+
+ Bill Number : 5737
+ Customer Name : vishal
+ Phone Number : 0000000
+=====================================
+ Product		QTY		Price
+=====================================
+ Bath Soap		1		40
+ Daal		8		480
+ Maza		10		400
+-------------------------------------
+ Cosemetic Tax			Rs. 2.0
+ Grocery Tax			Rs. 24.0
+ Cold_drink Tax			Rs. 20.0
+ Total Bill : 			 Rs. 966.0
+-------------------------------------

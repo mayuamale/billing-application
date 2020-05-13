@@ -1,0 +1,13 @@
+	 Welcome to D_mart
+
+ Bill Number : 9659
+ Customer Name : mayuri
+ Phone Number : 1234656
+=====================================
+ Product		QTY		Price
+=====================================
+ Bath Soap		12		480
+-------------------------------------
+ Cosemetic Tax			Rs. 24.0
+ Total Bill : 			 Rs. 504.0
+-------------------------------------

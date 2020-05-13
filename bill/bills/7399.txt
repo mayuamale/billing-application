@@ -1,0 +1,15 @@
+	 Welcome to D_mart
+
+ Bill Number : 7399
+ Customer Name : mayuri amale
+ Phone Number : 15245622
+=====================================
+ Product		QTY		Price
+=====================================
+ Face Wash		10		600
+ Limca		6		240
+-------------------------------------
+ Cosemetic Tax			Rs. 30.0
+ Cold_drink Tax			Rs. 12.0
+ Total Bill : 			 Rs. 882.0
+-------------------------------------
